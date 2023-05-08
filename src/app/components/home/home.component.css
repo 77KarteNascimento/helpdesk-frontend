@@ -1,0 +1,10 @@
+.card {
+    width: 90%;  /*largura*/
+    margin: auto; /*margem automatica*/
+    background-color: rgb(235, 235, 235) /*customizando fundo da home*/
+
+}
+
+img {
+    height: 50rem;
+}
